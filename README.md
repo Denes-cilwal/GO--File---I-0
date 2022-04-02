@@ -1,8 +1,6 @@
 # GO-File-I-0
 
- - Reading data and writing file using Os package.
- - Reading data and writing using buffered I/O.
- 
 
+✅ [Reading data and writing file using Os package](https://golangdocs.com/io-package-in-golang) - ✔
 
- 
+✅ [Reading data and writing using buffered I/O.](https://www.educative.io/edpresso/how-to-read-and-write-with-golang-bufio)
