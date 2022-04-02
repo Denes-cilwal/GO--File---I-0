@@ -19,6 +19,10 @@ func main() {
 	// write to file
 	// WriteString writes the contents of the string content to file,
 	length, err := io.WriteString(file, content)
+
+	// OR
+	// writer := io.Writer(file)
+	// // n, err := writer.Write([]byte("hello"))
 	CheckNilErr(err)
 
 	fmt.Println("length is:", length)
