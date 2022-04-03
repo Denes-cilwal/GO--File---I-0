@@ -5,3 +5,8 @@
 ✅ [Reading data and writing using buffered I/O.](https://www.educative.io/edpresso/how-to-read-and-write-with-golang-bufio) - ✔
 
 ✅ [Buffered reading and Scanning, Reader | Writer Interface](https://www.educative.io/edpresso/how-to-read-and-write-with-golang-bufio) - ✔
+
+✅ [Buffers and streams](https://www.youtube.com/watch?v=-O8wpYYKstE&t=655s) - ✔
+
+✅ [Buffers and streams](https://www.youtube.com/watch?v=GlybFFMXXmQ&t=138s) - ✔
+
